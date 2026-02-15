@@ -1,7 +1,7 @@
 cd IMPLEMENTING-IOT-PIPELINE-WAZED
 
 python3 -m venv ML_Task/tf-env
-source ML_Task/tf-env/bin/activate
+source tf-env/bin/activate
 pip install -r ML_Task/requirements.txt
 
 
