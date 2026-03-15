@@ -4,4 +4,6 @@ tf-env/
 .venv/
 venv/
 env/
-ins.txt,
+ins.txt
+Test.ipynb
+requirements.txt
