@@ -18,11 +18,13 @@ It includes both presentation materials and method descriptions.
 <h3>Topics Covered</h3>
 
 <ul>
-  <li>User-centered design</li>
-  <li>Usability and accessibility</li>
-  <li>Design thinking process</li>
-  <li>Wireframing and prototyping</li>
-  <li>User research and evaluation methods</li>
+  <li>Designing user flows<img" />
+</li>
+  <li>Feature Prioritization Using Kano
+Analysis</li>
+  <li>Jobs To Be Done (JTBD) Analysis</li>
+  <li>Heuristic Evaluation (Nielsen’s Principles)</li>
+  <li>Accessibility Assessment</li>
 </ul>
 
 <p>
