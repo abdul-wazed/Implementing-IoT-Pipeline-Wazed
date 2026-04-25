@@ -4,6 +4,7 @@ tf-env/
 .venv/
 venv/
 env/
-ins.txt
+package-lock.json
 Test.ipynb
 requirements.txt
+package.json
